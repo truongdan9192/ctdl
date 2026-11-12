@@ -1,0 +1,5 @@
+1. Tìm sinh viên theo mã
+2. Tìm sinh viên theo tên
+3. Tìm sinh viên theo điểm trung bình
+4. Tìm điểm trung bình cao nhất
+5. Tìm sinh viên có điểm trung bình cao nhất
